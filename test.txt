@@ -1,0 +1,832 @@
+Numero archi : 1400 tempo di esecuzione : 0.1246178150177002
+
+Numero archi : 1400 tempo di esecuzione : 0.007287025451660156
+
+Numero archi : 2000 tempo di esecuzione : 0.19091391563415527
+
+Numero archi : 2000 tempo di esecuzione : 0.01311802864074707
+
+Numero archi : 3000 tempo di esecuzione : 0.4762389659881592
+
+Numero archi : 3000 tempo di esecuzione : 0.026510953903198242
+
+Numero archi : 100 tempo di esecuzione : 0.0009860992431640625
+
+Numero archi : 100 tempo di esecuzione : 0.00017690658569335938
+
+Numero archi : 100 tempo di esecuzione : 0.0010080337524414062
+
+Numero archi : 100 tempo di esecuzione : 0.00017380714416503906
+
+Numero archi : 100 tempo di esecuzione : 0.0009799003601074219
+
+Numero archi : 100 tempo di esecuzione : 0.0001742839813232422
+
+Numero archi : 100 tempo di esecuzione : 0.0010330677032470703
+
+Numero archi : 100 tempo di esecuzione : 0.00019693374633789062
+
+Numero archi : 100 tempo di esecuzione : 0.0009009838104248047
+
+Numero archi : 100 tempo di esecuzione : 0.00017714500427246094
+
+Numero archi : 100 tempo di esecuzione : 0.0009720325469970703
+
+Numero archi : 100 tempo di esecuzione : 0.00017189979553222656
+
+Numero archi : 100 tempo di esecuzione : 0.0011060237884521484
+
+Numero archi : 100 tempo di esecuzione : 0.00019502639770507812
+
+Numero archi : 100 tempo di esecuzione : 0.0008099079132080078
+
+Numero archi : 100 tempo di esecuzione : 0.00017523765563964844
+
+Numero archi : 100 tempo di esecuzione : 0.00090789794921875
+
+Numero archi : 100 tempo di esecuzione : 0.0001747608184814453
+
+Numero archi : 100 tempo di esecuzione : 0.0009050369262695312
+
+Numero archi : 100 tempo di esecuzione : 0.00018787384033203125
+
+Numero archi : 100 tempo di esecuzione : 0.0009379386901855469
+
+Numero archi : 100 tempo di esecuzione : 0.0001888275146484375
+
+Numero archi : 100 tempo di esecuzione : 0.0009508132934570312
+
+Numero archi : 100 tempo di esecuzione : 0.0001811981201171875
+
+Numero archi : 100 tempo di esecuzione : 0.0009238719940185547
+
+Numero archi : 100 tempo di esecuzione : 0.00018286705017089844
+
+Numero archi : 98 tempo di esecuzione : 0.0008680820465087891
+
+Numero archi : 98 tempo di esecuzione : 0.0001819133758544922
+
+Numero archi : 98 tempo di esecuzione : 0.001024007797241211
+
+Numero archi : 98 tempo di esecuzione : 0.0001800060272216797
+
+Numero archi : 1018 tempo di esecuzione : 0.06714510917663574
+
+Numero archi : 1018 tempo di esecuzione : 0.0038259029388427734
+
+Numero archi : 1020 tempo di esecuzione : 0.06567502021789551
+
+Numero archi : 1020 tempo di esecuzione : 0.0037147998809814453
+
+Numero archi : 1020 tempo di esecuzione : 0.07140302658081055
+
+Numero archi : 1020 tempo di esecuzione : 0.004900932312011719
+
+Numero archi : 1020 tempo di esecuzione : 0.06209111213684082
+
+Numero archi : 1020 tempo di esecuzione : 0.003875255584716797
+
+Numero archi : 1020 tempo di esecuzione : 0.06074810028076172
+
+Numero archi : 1020 tempo di esecuzione : 0.003777027130126953
+
+Numero archi : 1020 tempo di esecuzione : 0.059156179428100586
+
+Numero archi : 1020 tempo di esecuzione : 0.003725290298461914
+
+Numero archi : 1020 tempo di esecuzione : 0.06123208999633789
+
+Numero archi : 1020 tempo di esecuzione : 0.0038747787475585938
+
+Numero archi : 1020 tempo di esecuzione : 0.06173586845397949
+
+Numero archi : 1020 tempo di esecuzione : 0.003709077835083008
+
+Numero archi : 1018 tempo di esecuzione : 0.0647742748260498
+
+Numero archi : 1018 tempo di esecuzione : 0.003838777542114258
+
+Numero archi : 1018 tempo di esecuzione : 0.06288623809814453
+
+Numero archi : 1018 tempo di esecuzione : 0.00531005859375
+
+Numero archi : 1018 tempo di esecuzione : 0.05872321128845215
+
+Numero archi : 1018 tempo di esecuzione : 0.0040819644927978516
+
+Numero archi : 1018 tempo di esecuzione : 0.0629730224609375
+
+Numero archi : 1018 tempo di esecuzione : 0.0038950443267822266
+
+Numero archi : 1020 tempo di esecuzione : 0.06342816352844238
+
+Numero archi : 1020 tempo di esecuzione : 0.0038390159606933594
+
+Numero archi : 1020 tempo di esecuzione : 0.0637826919555664
+
+Numero archi : 1020 tempo di esecuzione : 0.0037338733673095703
+
+Numero archi : 1020 tempo di esecuzione : 0.05328106880187988
+
+Numero archi : 1020 tempo di esecuzione : 0.0037870407104492188
+
+Numero archi : 1018 tempo di esecuzione : 0.06668591499328613
+
+Numero archi : 1018 tempo di esecuzione : 0.0038421154022216797
+
+Numero archi : 1018 tempo di esecuzione : 0.06093096733093262
+
+Numero archi : 1018 tempo di esecuzione : 0.0037980079650878906
+
+Numero archi : 1020 tempo di esecuzione : 0.06113600730895996
+
+Numero archi : 1020 tempo di esecuzione : 0.003799915313720703
+
+Numero archi : 8 tempo di esecuzione : 0.00011992454528808594
+
+Numero archi : 8 tempo di esecuzione : 4.673004150390625e-05
+
+Numero archi : 8 tempo di esecuzione : 0.00011491775512695312
+
+Numero archi : 8 tempo di esecuzione : 4.601478576660156e-05
+
+Numero archi : 8 tempo di esecuzione : 0.00012183189392089844
+
+Numero archi : 8 tempo di esecuzione : 4.601478576660156e-05
+
+Numero archi : 8 tempo di esecuzione : 0.00012183189392089844
+
+Numero archi : 8 tempo di esecuzione : 4.506111145019531e-05
+
+Numero archi : 8 tempo di esecuzione : 0.00011396408081054688
+
+Numero archi : 8 tempo di esecuzione : 4.410743713378906e-05
+
+Numero archi : 8 tempo di esecuzione : 0.00013113021850585938
+
+Numero archi : 8 tempo di esecuzione : 0.00015473365783691406
+
+Numero archi : 8 tempo di esecuzione : 0.0001380443572998047
+
+Numero archi : 8 tempo di esecuzione : 4.673004150390625e-05
+
+Numero archi : 8 tempo di esecuzione : 8.988380432128906e-05
+
+Numero archi : 8 tempo di esecuzione : 4.601478576660156e-05
+
+Numero archi : 8 tempo di esecuzione : 6.008148193359375e-05
+
+Numero archi : 8 tempo di esecuzione : 4.482269287109375e-05
+
+Numero archi : 8 tempo di esecuzione : 5.1975250244140625e-05
+
+Numero archi : 8 tempo di esecuzione : 7.677078247070312e-05
+
+Numero archi : 8 tempo di esecuzione : 5.2928924560546875e-05
+
+Numero archi : 8 tempo di esecuzione : 5.1021575927734375e-05
+
+Numero archi : 8 tempo di esecuzione : 5.793571472167969e-05
+
+Numero archi : 8 tempo di esecuzione : 4.506111145019531e-05
+
+Numero archi : 8 tempo di esecuzione : 6.771087646484375e-05
+
+Numero archi : 8 tempo di esecuzione : 9.274482727050781e-05
+
+Numero archi : 6 tempo di esecuzione : 4.982948303222656e-05
+
+Numero archi : 6 tempo di esecuzione : 4.291534423828125e-05
+
+Numero archi : 6 tempo di esecuzione : 5.0067901611328125e-05
+
+Numero archi : 6 tempo di esecuzione : 4.315376281738281e-05
+
+Numero archi : 6 tempo di esecuzione : 8.893013000488281e-05
+
+Numero archi : 6 tempo di esecuzione : 7.414817810058594e-05
+
+Numero archi : 6 tempo di esecuzione : 4.9114227294921875e-05
+
+Numero archi : 6 tempo di esecuzione : 4.1961669921875e-05
+
+Numero archi : 6 tempo di esecuzione : 4.9114227294921875e-05
+
+Numero archi : 6 tempo di esecuzione : 4.1961669921875e-05
+
+Numero archi : 6 tempo di esecuzione : 5.6743621826171875e-05
+
+Numero archi : 6 tempo di esecuzione : 7.486343383789062e-05
+
+Numero archi : 6 tempo di esecuzione : 8.559226989746094e-05
+
+Numero archi : 6 tempo di esecuzione : 4.410743713378906e-05
+
+Numero archi : 6 tempo di esecuzione : 0.00014209747314453125
+
+Numero archi : 6 tempo di esecuzione : 6.508827209472656e-05
+
+Numero archi : 6 tempo di esecuzione : 7.295608520507812e-05
+
+Numero archi : 6 tempo di esecuzione : 3.886222839355469e-05
+
+Numero archi : 6 tempo di esecuzione : 7.200241088867188e-05
+
+Numero archi : 6 tempo di esecuzione : 3.886222839355469e-05
+
+Numero archi : 8 tempo di esecuzione : 9.202957153320312e-05
+
+Numero archi : 8 tempo di esecuzione : 4.673004150390625e-05
+
+Numero archi : 8 tempo di esecuzione : 8.296966552734375e-05
+
+Numero archi : 8 tempo di esecuzione : 8.20159912109375e-05
+
+Numero archi : 6 tempo di esecuzione : 7.414817810058594e-05
+
+Numero archi : 6 tempo di esecuzione : 3.814697265625e-05
+
+Numero archi : 6 tempo di esecuzione : 8.58306884765625e-05
+
+Numero archi : 6 tempo di esecuzione : 4.1961669921875e-05
+
+Numero archi : 6 tempo di esecuzione : 8.606910705566406e-05
+
+Numero archi : 6 tempo di esecuzione : 9.298324584960938e-05
+
+Numero archi : 6 tempo di esecuzione : 0.0001499652862548828
+
+Numero archi : 6 tempo di esecuzione : 5.0067901611328125e-05
+
+Numero archi : 6 tempo di esecuzione : 8.606910705566406e-05
+
+Numero archi : 6 tempo di esecuzione : 4.410743713378906e-05
+
+Numero archi : 8 tempo di esecuzione : 8.916854858398438e-05
+
+Numero archi : 8 tempo di esecuzione : 4.506111145019531e-05
+
+Numero archi : 8 tempo di esecuzione : 9.822845458984375e-05
+
+Numero archi : 8 tempo di esecuzione : 4.482269287109375e-05
+
+Numero archi : 6 tempo di esecuzione : 8.487701416015625e-05
+
+Numero archi : 6 tempo di esecuzione : 4.291534423828125e-05
+
+Numero archi : 6 tempo di esecuzione : 0.00011801719665527344
+
+Numero archi : 6 tempo di esecuzione : 4.291534423828125e-05
+
+Numero archi : 6 tempo di esecuzione : 0.00011491775512695312
+
+Numero archi : 6 tempo di esecuzione : 4.8160552978515625e-05
+
+Numero archi : 6 tempo di esecuzione : 0.00010800361633300781
+
+Numero archi : 6 tempo di esecuzione : 4.315376281738281e-05
+
+Numero archi : 38 tempo di esecuzione : 0.0004532337188720703
+
+Numero archi : 38 tempo di esecuzione : 8.916854858398438e-05
+
+Numero archi : 38 tempo di esecuzione : 0.0004248619079589844
+
+Numero archi : 38 tempo di esecuzione : 0.0001163482666015625
+
+Numero archi : 38 tempo di esecuzione : 0.00039005279541015625
+
+Numero archi : 38 tempo di esecuzione : 9.083747863769531e-05
+
+Numero archi : 38 tempo di esecuzione : 0.00025010108947753906
+
+Numero archi : 38 tempo di esecuzione : 8.893013000488281e-05
+
+Numero archi : 38 tempo di esecuzione : 0.0002541542053222656
+
+Numero archi : 38 tempo di esecuzione : 9.298324584960938e-05
+
+Numero archi : 38 tempo di esecuzione : 0.0005071163177490234
+
+Numero archi : 38 tempo di esecuzione : 0.00016617774963378906
+
+Numero archi : 38 tempo di esecuzione : 0.0002810955047607422
+
+Numero archi : 38 tempo di esecuzione : 0.00010395050048828125
+
+Numero archi : 38 tempo di esecuzione : 0.00025200843811035156
+
+Numero archi : 38 tempo di esecuzione : 8.893013000488281e-05
+
+Numero archi : 38 tempo di esecuzione : 0.0004961490631103516
+
+Numero archi : 38 tempo di esecuzione : 0.00090789794921875
+
+Numero archi : 38 tempo di esecuzione : 0.0004909038543701172
+
+Numero archi : 38 tempo di esecuzione : 0.00017404556274414062
+
+Numero archi : 38 tempo di esecuzione : 0.0002560615539550781
+
+Numero archi : 38 tempo di esecuzione : 8.702278137207031e-05
+
+Numero archi : 40 tempo di esecuzione : 0.0004622936248779297
+
+Numero archi : 40 tempo di esecuzione : 0.0005240440368652344
+
+Numero archi : 40 tempo di esecuzione : 0.0002639293670654297
+
+Numero archi : 40 tempo di esecuzione : 9.274482727050781e-05
+
+Numero archi : 40 tempo di esecuzione : 0.00026988983154296875
+
+Numero archi : 40 tempo di esecuzione : 9.226799011230469e-05
+
+Numero archi : 40 tempo di esecuzione : 0.00033783912658691406
+
+Numero archi : 40 tempo di esecuzione : 0.00010919570922851562
+
+Numero archi : 40 tempo di esecuzione : 0.00035881996154785156
+
+Numero archi : 40 tempo di esecuzione : 9.489059448242188e-05
+
+Numero archi : 40 tempo di esecuzione : 0.00026702880859375
+
+Numero archi : 40 tempo di esecuzione : 9.012222290039062e-05
+
+Numero archi : 40 tempo di esecuzione : 0.0005047321319580078
+
+Numero archi : 40 tempo di esecuzione : 0.00015616416931152344
+
+Numero archi : 40 tempo di esecuzione : 0.00026607513427734375
+
+Numero archi : 40 tempo di esecuzione : 9.608268737792969e-05
+
+Numero archi : 40 tempo di esecuzione : 0.00026488304138183594
+
+Numero archi : 40 tempo di esecuzione : 9.202957153320312e-05
+
+Numero archi : 40 tempo di esecuzione : 0.0003299713134765625
+
+Numero archi : 40 tempo di esecuzione : 9.322166442871094e-05
+
+Numero archi : 40 tempo di esecuzione : 0.00026988983154296875
+
+Numero archi : 40 tempo di esecuzione : 9.179115295410156e-05
+
+Numero archi : 40 tempo di esecuzione : 0.0002701282501220703
+
+Numero archi : 40 tempo di esecuzione : 9.298324584960938e-05
+
+Numero archi : 40 tempo di esecuzione : 0.00026607513427734375
+
+Numero archi : 40 tempo di esecuzione : 0.00010800361633300781
+
+Numero archi : 400 tempo di esecuzione : 0.010374069213867188
+
+Numero archi : 400 tempo di esecuzione : 0.0009431838989257812
+
+Numero archi : 398 tempo di esecuzione : 0.010687112808227539
+
+Numero archi : 398 tempo di esecuzione : 0.0009429454803466797
+
+Numero archi : 398 tempo di esecuzione : 0.010286808013916016
+
+Numero archi : 398 tempo di esecuzione : 0.0009388923645019531
+
+Numero archi : 398 tempo di esecuzione : 0.010333061218261719
+
+Numero archi : 398 tempo di esecuzione : 0.0009179115295410156
+
+Numero archi : 400 tempo di esecuzione : 0.010542154312133789
+
+Numero archi : 400 tempo di esecuzione : 0.0009658336639404297
+
+Numero archi : 400 tempo di esecuzione : 0.010396957397460938
+
+Numero archi : 400 tempo di esecuzione : 0.0009341239929199219
+
+Numero archi : 400 tempo di esecuzione : 0.010554790496826172
+
+Numero archi : 400 tempo di esecuzione : 0.0009326934814453125
+
+Numero archi : 400 tempo di esecuzione : 0.009715080261230469
+
+Numero archi : 400 tempo di esecuzione : 0.0009760856628417969
+
+Numero archi : 400 tempo di esecuzione : 0.021158218383789062
+
+Numero archi : 400 tempo di esecuzione : 0.001789093017578125
+
+Numero archi : 400 tempo di esecuzione : 0.024691104888916016
+
+Numero archi : 400 tempo di esecuzione : 0.0017652511596679688
+
+Numero archi : 400 tempo di esecuzione : 0.020923852920532227
+
+Numero archi : 400 tempo di esecuzione : 0.001840829849243164
+
+Numero archi : 402 tempo di esecuzione : 0.010088920593261719
+
+Numero archi : 402 tempo di esecuzione : 0.0010819435119628906
+
+Numero archi : 402 tempo di esecuzione : 0.01190495491027832
+
+Numero archi : 402 tempo di esecuzione : 0.0010530948638916016
+
+Numero archi : 100 tempo di esecuzione : 0.0021419525146484375
+
+Numero archi : 100 tempo di esecuzione : 0.0004239082336425781
+
+Numero archi : 100 tempo di esecuzione : 0.0010039806365966797
+
+Numero archi : 100 tempo di esecuzione : 0.00021386146545410156
+
+Numero archi : 98 tempo di esecuzione : 0.0019731521606445312
+
+Numero archi : 98 tempo di esecuzione : 0.000392913818359375
+
+Numero archi : 98 tempo di esecuzione : 0.0020139217376708984
+
+Numero archi : 98 tempo di esecuzione : 0.0005240440368652344
+
+Numero archi : 98 tempo di esecuzione : 0.0018398761749267578
+
+Numero archi : 98 tempo di esecuzione : 0.0010890960693359375
+
+Numero archi : 98 tempo di esecuzione : 0.002009868621826172
+
+Numero archi : 98 tempo di esecuzione : 0.0004558563232421875
+
+Numero archi : 98 tempo di esecuzione : 0.008050918579101562
+
+Numero archi : 98 tempo di esecuzione : 0.0003590583801269531
+
+Numero archi : 100 tempo di esecuzione : 0.0029439926147460938
+
+Numero archi : 100 tempo di esecuzione : 0.00020885467529296875
+
+Numero archi : 100 tempo di esecuzione : 0.002131223678588867
+
+Numero archi : 100 tempo di esecuzione : 0.00034689903259277344
+
+Numero archi : 100 tempo di esecuzione : 0.0008449554443359375
+
+Numero archi : 100 tempo di esecuzione : 0.00017976760864257812
+
+Numero archi : 100 tempo di esecuzione : 0.0023109912872314453
+
+Numero archi : 100 tempo di esecuzione : 0.0004000663757324219
+
+Numero archi : 98 tempo di esecuzione : 0.0011179447174072266
+
+Numero archi : 98 tempo di esecuzione : 0.00020933151245117188
+
+Numero archi : 98 tempo di esecuzione : 0.0010499954223632812
+
+Numero archi : 98 tempo di esecuzione : 0.0001850128173828125
+
+Numero archi : 98 tempo di esecuzione : 0.0009191036224365234
+
+Numero archi : 98 tempo di esecuzione : 0.00018310546875
+
+Numero archi : 98 tempo di esecuzione : 0.0009729862213134766
+
+Numero archi : 98 tempo di esecuzione : 0.00018095970153808594
+
+Numero archi : 98 tempo di esecuzione : 0.001112222671508789
+
+Numero archi : 98 tempo di esecuzione : 0.00018310546875
+
+Numero archi : 100 tempo di esecuzione : 0.0018069744110107422
+
+Numero archi : 100 tempo di esecuzione : 0.00020575523376464844
+
+Numero archi : 2 tempo di esecuzione : 3.933906555175781e-05
+
+Numero archi : 2 tempo di esecuzione : 3.5762786865234375e-05
+
+Numero archi : 32 tempo di esecuzione : 0.0003159046173095703
+
+Numero archi : 32 tempo di esecuzione : 8.916854858398438e-05
+
+Numero archi : 346 tempo di esecuzione : 0.006916999816894531
+
+Numero archi : 346 tempo di esecuzione : 0.0007481575012207031
+
+Numero archi : 552 tempo di esecuzione : 0.019006967544555664
+
+Numero archi : 552 tempo di esecuzione : 0.0014431476593017578
+
+Numero archi : 48 tempo di esecuzione : 0.00032401084899902344
+
+Numero archi : 48 tempo di esecuzione : 0.00010180473327636719
+
+Numero archi : 530 tempo di esecuzione : 0.01709890365600586
+
+Numero archi : 530 tempo di esecuzione : 0.001361846923828125
+
+Numero archi : 670 tempo di esecuzione : 0.033616065979003906
+
+Numero archi : 670 tempo di esecuzione : 0.0023288726806640625
+
+Numero archi : 178 tempo di esecuzione : 0.00490880012512207
+
+Numero archi : 178 tempo di esecuzione : 0.0006489753723144531
+
+Numero archi : 242 tempo di esecuzione : 0.0038709640502929688
+
+Numero archi : 242 tempo di esecuzione : 0.0004673004150390625
+
+Numero archi : 424 tempo di esecuzione : 0.02392125129699707
+
+Numero archi : 424 tempo di esecuzione : 0.001683950424194336
+
+Numero archi : 512 tempo di esecuzione : 0.013895988464355469
+
+Numero archi : 512 tempo di esecuzione : 0.0013570785522460938
+
+Numero archi : 90 tempo di esecuzione : 0.0009410381317138672
+
+Numero archi : 90 tempo di esecuzione : 0.00017714500427246094
+
+Numero archi : 932 tempo di esecuzione : 0.04332709312438965
+
+Numero archi : 932 tempo di esecuzione : 0.003269195556640625
+
+Numero archi : 228 tempo di esecuzione : 0.0041768550872802734
+
+Numero archi : 228 tempo di esecuzione : 0.0004470348358154297
+
+Numero archi : 360 tempo di esecuzione : 0.008636951446533203
+
+Numero archi : 360 tempo di esecuzione : 0.0008819103240966797
+
+Numero archi : 402 tempo di esecuzione : 0.014513254165649414
+
+Numero archi : 402 tempo di esecuzione : 0.0010759830474853516
+
+Numero archi : 300 tempo di esecuzione : 0.010441064834594727
+
+Numero archi : 300 tempo di esecuzione : 0.0007221698760986328
+
+Numero archi : 820 tempo di esecuzione : 0.053945064544677734
+
+Numero archi : 820 tempo di esecuzione : 0.0041921138763427734
+
+Numero archi : 362 tempo di esecuzione : 0.009306907653808594
+
+Numero archi : 362 tempo di esecuzione : 0.0008838176727294922
+
+Numero archi : 872 tempo di esecuzione : 0.048985958099365234
+
+Numero archi : 872 tempo di esecuzione : 0.0031762123107910156
+
+Numero archi : 332 tempo di esecuzione : 0.007242918014526367
+
+Numero archi : 332 tempo di esecuzione : 0.0007419586181640625
+
+Numero archi : 984 tempo di esecuzione : 0.06465506553649902
+
+Numero archi : 984 tempo di esecuzione : 0.003559112548828125
+
+Numero archi : 422 tempo di esecuzione : 0.01303410530090332
+
+Numero archi : 422 tempo di esecuzione : 0.0010521411895751953
+
+Numero archi : 192 tempo di esecuzione : 0.006290912628173828
+
+Numero archi : 192 tempo di esecuzione : 0.0007238388061523438
+
+Numero archi : 814 tempo di esecuzione : 0.05808401107788086
+
+Numero archi : 814 tempo di esecuzione : 0.0027153491973876953
+
+Numero archi : 38 tempo di esecuzione : 0.0002808570861816406
+
+Numero archi : 38 tempo di esecuzione : 9.989738464355469e-05
+
+Numero archi : 480 tempo di esecuzione : 0.020959138870239258
+
+Numero archi : 480 tempo di esecuzione : 0.0013470649719238281
+
+Numero archi : 848 tempo di esecuzione : 0.04291892051696777
+
+Numero archi : 848 tempo di esecuzione : 0.003456592559814453
+
+Numero archi : 696 tempo di esecuzione : 0.0283048152923584
+
+Numero archi : 696 tempo di esecuzione : 0.0020699501037597656
+
+Numero archi : 306 tempo di esecuzione : 0.01672196388244629
+
+Numero archi : 306 tempo di esecuzione : 0.0007288455963134766
+
+Numero archi : 956 tempo di esecuzione : 0.06131911277770996
+
+Numero archi : 956 tempo di esecuzione : 0.0034089088439941406
+
+Numero archi : 380 tempo di esecuzione : 0.013295173645019531
+
+Numero archi : 380 tempo di esecuzione : 0.0009541511535644531
+
+Numero archi : 54 tempo di esecuzione : 0.0011870861053466797
+
+Numero archi : 54 tempo di esecuzione : 0.00017690658569335938
+
+Numero archi : 338 tempo di esecuzione : 0.007831096649169922
+
+Numero archi : 338 tempo di esecuzione : 0.0007150173187255859
+
+Numero archi : 170 tempo di esecuzione : 0.002644777297973633
+
+Numero archi : 170 tempo di esecuzione : 0.00045108795166015625
+
+Numero archi : 888 tempo di esecuzione : 0.07518196105957031
+
+Numero archi : 888 tempo di esecuzione : 0.00545501708984375
+
+Numero archi : 988 tempo di esecuzione : 0.10515594482421875
+
+Numero archi : 988 tempo di esecuzione : 0.00440216064453125
+
+Numero archi : 620 tempo di esecuzione : 0.0539088249206543
+
+Numero archi : 620 tempo di esecuzione : 0.0033359527587890625
+
+Numero archi : 396 tempo di esecuzione : 0.01687908172607422
+
+Numero archi : 396 tempo di esecuzione : 0.001071929931640625
+
+Numero archi : 572 tempo di esecuzione : 0.02291083335876465
+
+Numero archi : 572 tempo di esecuzione : 0.0017480850219726562
+
+Numero archi : 294 tempo di esecuzione : 0.011406183242797852
+
+Numero archi : 294 tempo di esecuzione : 0.0012509822845458984
+
+Numero archi : 746 tempo di esecuzione : 0.04323101043701172
+
+Numero archi : 746 tempo di esecuzione : 0.0027849674224853516
+
+Numero archi : 6 tempo di esecuzione : 0.0001049041748046875
+
+Numero archi : 6 tempo di esecuzione : 7.390975952148438e-05
+
+Numero archi : 62 tempo di esecuzione : 0.0015931129455566406
+
+Numero archi : 62 tempo di esecuzione : 0.0002429485321044922
+
+Numero archi : 642 tempo di esecuzione : 0.057997941970825195
+
+Numero archi : 642 tempo di esecuzione : 0.0028209686279296875
+
+Numero archi : 274 tempo di esecuzione : 0.01070094108581543
+
+Numero archi : 274 tempo di esecuzione : 0.0011410713195800781
+
+Numero archi : 774 tempo di esecuzione : 0.0586090087890625
+
+Numero archi : 774 tempo di esecuzione : 0.0027687549591064453
+
+Numero archi : 514 tempo di esecuzione : 0.05385780334472656
+
+Numero archi : 514 tempo di esecuzione : 0.0025000572204589844
+
+Numero archi : 454 tempo di esecuzione : 0.023334741592407227
+
+Numero archi : 454 tempo di esecuzione : 0.0012028217315673828
+
+Numero archi : 740 tempo di esecuzione : 0.05877184867858887
+
+Numero archi : 740 tempo di esecuzione : 0.002252817153930664
+
+Numero archi : 368 tempo di esecuzione : 0.017906904220581055
+
+Numero archi : 368 tempo di esecuzione : 0.0018589496612548828
+
+Numero archi : 790 tempo di esecuzione : 0.07280993461608887
+
+Numero archi : 790 tempo di esecuzione : 0.005017995834350586
+
+Numero archi : 480 tempo di esecuzione : 0.04191994667053223
+
+Numero archi : 480 tempo di esecuzione : 0.004377841949462891
+
+Numero archi : 660 tempo di esecuzione : 0.07407402992248535
+
+Numero archi : 660 tempo di esecuzione : 0.0037126541137695312
+
+Numero archi : 50 tempo di esecuzione : 0.0007219314575195312
+
+Numero archi : 50 tempo di esecuzione : 0.00020599365234375
+
+Numero archi : 500 tempo di esecuzione : 0.02665400505065918
+
+Numero archi : 500 tempo di esecuzione : 0.0014309883117675781
+
+Numero archi : 810 tempo di esecuzione : 0.11643004417419434
+
+Numero archi : 810 tempo di esecuzione : 0.019637107849121094
+
+Numero archi : 734 tempo di esecuzione : 0.0861351490020752
+
+Numero archi : 734 tempo di esecuzione : 0.007543087005615234
+
+Numero archi : 546 tempo di esecuzione : 0.05665993690490723
+
+Numero archi : 546 tempo di esecuzione : 0.0037560462951660156
+
+Numero archi : 772 tempo di esecuzione : 0.10429072380065918
+
+Numero archi : 772 tempo di esecuzione : 0.0037429332733154297
+
+Numero archi : 982 tempo di esecuzione : 0.12765789031982422
+
+Numero archi : 982 tempo di esecuzione : 0.003660917282104492
+
+Numero archi : 608 tempo di esecuzione : 0.036070823669433594
+
+Numero archi : 608 tempo di esecuzione : 0.00189208984375
+
+Numero archi : 272 tempo di esecuzione : 0.01055598258972168
+
+Numero archi : 272 tempo di esecuzione : 0.0011320114135742188
+
+Numero archi : 688 tempo di esecuzione : 0.07843780517578125
+
+Numero archi : 688 tempo di esecuzione : 0.002282857894897461
+
+Numero archi : 782 tempo di esecuzione : 0.03701615333557129
+
+Numero archi : 782 tempo di esecuzione : 0.0025339126586914062
+
+Numero archi : 478 tempo di esecuzione : 0.028703927993774414
+
+Numero archi : 478 tempo di esecuzione : 0.002301931381225586
+
+Numero archi : 196 tempo di esecuzione : 0.005852937698364258
+
+Numero archi : 196 tempo di esecuzione : 0.0009877681732177734
+
+Numero archi : 400 tempo di esecuzione : 0.023967981338500977
+
+Numero archi : 400 tempo di esecuzione : 0.002156972885131836
+
+Numero archi : 506 tempo di esecuzione : 0.01989912986755371
+
+Numero archi : 506 tempo di esecuzione : 0.0012989044189453125
+
+Numero archi : 482 tempo di esecuzione : 0.03726005554199219
+
+Numero archi : 482 tempo di esecuzione : 0.002373933792114258
+
+Numero archi : 246 tempo di esecuzione : 0.012405157089233398
+
+Numero archi : 246 tempo di esecuzione : 0.0009968280792236328
+
+Numero archi : 194 tempo di esecuzione : 0.005714893341064453
+
+Numero archi : 194 tempo di esecuzione : 0.0014429092407226562
+
+Numero archi : 328 tempo di esecuzione : 0.015482902526855469
+
+Numero archi : 328 tempo di esecuzione : 0.0014500617980957031
+
+Numero archi : 250 tempo di esecuzione : 0.01069021224975586
+
+Numero archi : 250 tempo di esecuzione : 0.0010728836059570312
+
+Numero archi : 824 tempo di esecuzione : 0.05922579765319824
+
+Numero archi : 824 tempo di esecuzione : 0.004705667495727539
+
+Numero archi : 930 tempo di esecuzione : 0.07390213012695312
+
+Numero archi : 930 tempo di esecuzione : 0.003197908401489258
+
+Numero archi : 186 tempo di esecuzione : 0.006220817565917969
+
+Numero archi : 186 tempo di esecuzione : 0.0011210441589355469
+
+Numero archi : 602 tempo di esecuzione : 0.031063079833984375
+
+Numero archi : 602 tempo di esecuzione : 0.001993894577026367
+
+Numero archi : 416 tempo di esecuzione : 0.011282920837402344
+
+Numero archi : 416 tempo di esecuzione : 0.0009829998016357422
+
+Numero archi : 882 tempo di esecuzione : 0.06352806091308594
+
+Numero archi : 882 tempo di esecuzione : 0.0033349990844726562
+
+Numero archi : 284 tempo di esecuzione : 0.01409602165222168
+
+Numero archi : 284 tempo di esecuzione : 0.0015900135040283203
+
+Numero archi : 350 tempo di esecuzione : 0.0170290470123291
+
+Numero archi : 350 tempo di esecuzione : 0.0014042854309082031
+
